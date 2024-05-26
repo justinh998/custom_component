@@ -1,0 +1,10 @@
+{
+    "domain": "dkb",
+    "name": "Deutsche Kreditbank",
+    "version": "1.0",
+    "documentation": "https://todoforlater",
+    "requirements": ["fints==4.0.0"],
+    "dependencies": [],
+    "codeowners": ["@myusername"]
+  }
+  
